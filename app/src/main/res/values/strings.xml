@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FacebookLogin&amp;ProfilePicture</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">facebook_app_id</string>
+    <string name="facebook_app_secret">facebook_app_secret</string>
+    <!--For Facebook permission refer to https://developers.facebook.com/docs/facebook-login/permissions -->
+    <string name="facebook_permission_public_profile">public_profile</string>
+    <string name="facebook_permission_email">email</string>
+    <string name="facebook_permission_user_friends">user_friends</string>
+    <string name="facebook_permission_user_about_me">user_about_me</string>
+    <string name="facebook_permission_user_actions_books">user_actions.books</string>
+
+</resources>
